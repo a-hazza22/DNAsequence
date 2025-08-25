@@ -10,3 +10,4 @@ for (let i = 0; i < 24; i++) {
     
     myDNA.push(dnaPieces[pieceOne] + dnaPieces[pieceTwo] + dnaPieces[pieceThree]);
 }
+console.log(myDNA);
